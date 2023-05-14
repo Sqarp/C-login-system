@@ -1,3 +1,3 @@
-# C-login-system
+# C# login-system
 シンプルなログインシステムです
 //に色々書いてます
